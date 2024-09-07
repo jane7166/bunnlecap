@@ -2,7 +2,7 @@
 import React, { useState } from 'react';
 import Link from 'next/link';
 import styled from 'styled-components';
-import { ethers } from "hardhat";
+import { ethers } from "ethers";
 // import "../../../../test/send.ts";
 
 const teams = [
